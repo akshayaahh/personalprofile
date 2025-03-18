@@ -1,0 +1,44 @@
+/* General Page Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Center the profile container */
+.container {
+    max-width: 600px;
+    background: white;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Headings */
+h1 {
+    color: #333;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #666;
+    margin: 10px 0;
+}
+
+/* Highlight important text */
+strong {
+    color: #000;
+}
+
+/* Add a profile picture */
+.profile-pic {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #333;
+    margin-bottom: 15px;
+}
